@@ -1,0 +1,20 @@
+.header {
+    width: 100vw;
+    height: 5rem;
+    background-color: #b40001;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ .logo {
+     margin-left: 2rem;
+ }
+
+ header nav ul{
+    display: flex;
+    margin-right: 3rem;
+}
+
+header nav ul li {
+    text-decoration: none;
+}
