@@ -1,25 +1,27 @@
 .header {
-    width: 100vw;
-    height: 5rem;
-    background-color: #b40001;
-    display: flex;
-    align-items: center;
+  width: 100vw;
+  height: 5rem;
+  background-color: #b40001;
+  display: flex;
+  align-items: center;
 }
- .logo {
-     margin-left: 2rem;
- }
-
- header nav ul{
-    display: flex;
-    margin-left: 10rem;
+.logo {
+  margin-left: 2rem;
 }
 
-header nav ul li a{
-    text-decoration: none;
-    color: white;
-    text-transform: uppercase;
-    font-size: 0.9rem;
-    margin: 0.3rem;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
+header nav ul {
+  display: flex;
+  margin-left: 10rem;
+}
+
+header nav ul li {
+  margin: 0.3rem;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
 }
